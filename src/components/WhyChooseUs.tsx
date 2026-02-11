@@ -75,7 +75,7 @@ export default function WhyChooseUs() {
             </p>
 
             {/* Stats */}
-            <div className="grid grid-cols-3 gap-6">
+            <div className="grid grid-cols-3 gap-4 sm:gap-6">
               <div className="text-center">
                 <div className="text-3xl md:text-4xl font-bold text-gold font-[family-name:var(--font-playfair)]">
                   500+
